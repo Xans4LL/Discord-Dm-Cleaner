@@ -1,0 +1,6 @@
+httpx
+colorama
+tqdm
+os
+logging
+
